@@ -1,5 +1,5 @@
 # Conditional operators: if, '?'
-
+anki
 Sometimes we need to perform different actions basing on a condition.
 
 There's an `if` operator for that and also the "question mark" operator: `"?"` for conditional evaluation.
